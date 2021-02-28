@@ -1,2 +1,2 @@
 # hello-world
-repository for CSE 360 Assignment 1, Spring 2021
+Hey my name is Chris Swanson, in additon to studying computer science I write music check it out: soundcloud.com/offbrandmusic
